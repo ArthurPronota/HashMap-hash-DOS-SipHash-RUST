@@ -1,0 +1,8 @@
+[package]
+name = "o_084"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# cargo add ahash
+ahash = "0.8.12"
